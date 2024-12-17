@@ -42,5 +42,5 @@ Um sistema simples para o cadastro de alunos em uma escola, desenvolvido com **H
 
 
 ## **Contato** 📬  
-👨‍💻 Desenvolvido por [Erick Candú](https://github.com/seu-usuario).  
+👨‍💻 Desenvolvido por [Erick Candú](https://github.com/ErickCandu).  
 
